@@ -1,0 +1,2 @@
+# ubuntugit
+Setting up git
